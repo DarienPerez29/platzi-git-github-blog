@@ -1,5 +1,5 @@
 body {
-    color: blue;
+    color: #3b3b3b;
     text-align: center;
     font-family: Montserrat;
     font-size: 16px;
@@ -8,7 +8,7 @@ body {
 }
 
 #cabecera {
-    background: #33A;
+    background: #bd1702;
     color: white;
     margin: 0;
     padding: 0.5em;
