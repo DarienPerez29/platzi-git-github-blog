@@ -5,4 +5,8 @@ Vive con sus padres jasja.
 
 Hoy hablaremos de su vida y obra maestra.
 
+<<<<<<< HEAD
 Este cambio es utilizando SSH
+=======
+Cambio a cabecera
+>>>>>>> cabecera
